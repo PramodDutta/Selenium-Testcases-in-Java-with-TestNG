@@ -1,29 +1,15 @@
 # README #
 
-TestNG with Selenium
+Selenium Test Cases in Java with TestNG
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Qucik Demo
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Instructions : http://scrolltest.com/?p=189
 
-### Contribution guidelines ###
+#### Final Results
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+![alt tag](http://imageshack.com/a/img661/9491/C38sbT.png)
