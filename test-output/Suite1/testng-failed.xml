@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Registration Test1(failed)">
+    <classes>
+      <class name="com.scrolltest.testng.MainClass">
+        <methods>
+          <include name="testRegisterationInDemoAUT"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.scrolltest.testng.MainClass -->
+    </classes>
+  </test> <!-- Registration Test1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
