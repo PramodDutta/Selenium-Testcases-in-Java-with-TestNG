@@ -12,7 +12,7 @@ public class BaseClass {
 	public void setUp()
 	{
 		driver  = new FirefoxDriver();
-		driver.get("http://demoaut.com/mercuryregister.php");
+		
 		
 		
 	}
